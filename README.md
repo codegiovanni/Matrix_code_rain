@@ -1,2 +1,2 @@
 # Matric_code_rain
-Matrix code rain using python with pygame
+Matrix code rain using Python with Pygame
